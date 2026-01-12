@@ -1,6 +1,6 @@
 # AI-Powered Task Optimizer
 
-By: NIT Trichy Student
+By: MEDISETTY GUNA
 
 ## Installation
 pip install -r requirements.txt
