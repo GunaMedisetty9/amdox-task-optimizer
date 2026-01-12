@@ -13,4 +13,4 @@ streamlit run app.py
 - Real-time stress monitoring
 - Team analytics dashboard
 
---This is the link for live demo : https://amdox-task-optimizer-wha2w7pzs9h2umhzrl22yk.streamlit.app/
+This is the link for live demo : https://amdox-task-optimizer-wha2w7pzs9h2umhzrl22yk.streamlit.app/
