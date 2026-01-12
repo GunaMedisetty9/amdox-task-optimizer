@@ -26,7 +26,7 @@ st.markdown('''
 
 # Title
 st.markdown('<p class="big-font">🎯 AI-Powered Task Optimizer</p>', unsafe_allow_html=True)
-st.markdown("### *By NIT Trichy Student*")
+st.markdown("### *By MEDISETTY GUNA*")
 st.markdown("---")
 
 # Load models
@@ -224,4 +224,4 @@ elif page == "🚨 Stress Monitor":
             st.success(f"✅ HEALTHY: {stress}/10")
 
 st.markdown("---")
-st.markdown("*🎓 NIT Trichy Student | AI Task Management System*")
+st.markdown("*🎓 MEDISETTY GUNA | AI Task Management System*")
